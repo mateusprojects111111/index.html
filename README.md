@@ -34,16 +34,16 @@
                 <img src="https://youtu.be/DQZcxN9v0RA?si=M5V80hDp256kVr21" />
             </a>
             <a href="https://youtu.be/s37x2VSZrLw?si=cJ3w4yzZdeEqXvsP">
-                <img src="https://img.youtube.com/vi/nCmIwcycUJ8/maxresdefault.jpg" />
+                <img src="https://youtu.be/s37x2VSZrLw?si=cJ3w4yzZdeEqXvsP" />
             </a>
-            <a href="https://www.youtube.com/watch?v=FvRmEapoHRc">
-                <img src="https://img.youtube.com/vi/FvRmEapoHRc/maxresdefault.jpg" />
+            <a href="https://youtu.be/s37x2VSZrLw?si=cJ3w4yzZdeEqXvsP">
+                <img src="https://youtu.be/s37x2VSZrLw?si=cJ3w4yzZdeEqXvsP" />
             </a>
-            <a href="https://www.youtube.com/watch?v=Ipkw_hWW-Hw">
-                <img src="https://img.youtube.com/vi/Ipkw_hWW-Hw/maxresdefault.jpg" />
+            <a href="https://youtu.be/LIIDh-qI9oI?si=YXOsvvOfyAy3N3LA">
+                <img src="https://youtu.be/LIIDh-qI9oI?si=YXOsvvOfyAy3N3LA" />
             </a>
-            <a href="https://www.youtube.com/watch?v=d4DzMNGoyis">
-                <img src="https://img.youtube.com/vi/d4DzMNGoyis/maxresdefault.jpg" />
+            <a href="https://youtu.be/o_1aF54DO60?si=s2XJ0TFH9Yylpmvh">
+                <img src="https://youtu.be/o_1aF54DO60?si=s2XJ0TFH9Yylpmvh" />
             </a>
         </div>
     </section>
