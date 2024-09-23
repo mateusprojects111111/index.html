@@ -11,16 +11,16 @@
 </head>
 
 <body>
-    <header>ALURAFLIX</header>
+    <header>YOUTUBE</header>
 
     <section class="chamada">
         <div class="chamada-texto">
-            <h1>ATRAVÉS DO ARANHAVERSO</h1>
-            <p>#homem-aranha</p>
+            <h1>ARIANA GRANDE</h1>
+            <p>#cadillac song</p>
         </div>
 
         <div>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=EEv-tsY_b1B2OwKE"
+            <iframe width="560" height="315" src="https://youtu.be/mUxi8998e2Q?si=QgTGNciu4RIEb1hd"
                 title="YouTube video player" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
