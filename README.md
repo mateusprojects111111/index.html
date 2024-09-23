@@ -28,12 +28,12 @@
     </section>
 
     <section class="categoria">
-        <h2>Filmes e séries</h2>
+        <h2>clipes</h2>
         <div class="categoria-videos">
-            <a href="https://www.youtube.com/watch?v=cs15QqG6Gjc">
-                <img src="https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg" />
+            <a href="https://youtu.be/DQZcxN9v0RA?si=dmi6Q81ACrvniETf">
+                <img src="https://youtu.be/DQZcxN9v0RA?si=M5V80hDp256kVr21" />
             </a>
-            <a href="https://www.youtube.com/watch?v=nCmIwcycUJ8">
+            <a href="https://youtu.be/s37x2VSZrLw?si=cJ3w4yzZdeEqXvsP">
                 <img src="https://img.youtube.com/vi/nCmIwcycUJ8/maxresdefault.jpg" />
             </a>
             <a href="https://www.youtube.com/watch?v=FvRmEapoHRc">
